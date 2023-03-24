@@ -84,5 +84,5 @@ $ npm start
 
 ## Contact
 
-- Linkedin [your-website.com](https://www.linkedin.com/in/julianespasandin/)
-- GitHub [@your-username](https://github.com/julianespa)
+- Linkedin [Julian Espasandin](https://www.linkedin.com/in/julianespasandin/)
+- GitHub [julianespa](https://github.com/julianespa)
