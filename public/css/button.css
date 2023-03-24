@@ -1,0 +1,98 @@
+button, .default {
+    background-color: #E0E0E0;
+    color:#3F3F3F;
+    font-size: 14px;
+    border: 0;
+    border-radius: 6px;
+    box-shadow: 0 2px 3px rgba(51, 51, 51, 0.2);
+    margin: 20px 0px;
+    cursor: pointer;
+    padding: 8px 16px;
+}
+
+button:disabled {
+    pointer-events: none;
+    box-shadow: none;
+    background-color: #E0E0E0;
+    color:#9E9E9E;
+}
+
+button:hover {
+    background-color:#AEAEAE;
+}
+
+.primary {
+    background-color: #2962FF;
+    color: #fff
+}
+
+.primary:hover {
+    background-color:#0039CB;
+}
+
+.outline {
+    color: #3D5AFE;
+    background-color: transparent;
+    border: 1px solid #3D5AFE;
+    border-radius: 6px;
+}
+
+.outline:hover {
+    background-color: rgba(41, 98, 255, 0.1);
+}
+
+.text {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    color:#3D5AFE;
+}
+
+.text:disabled {
+    pointer-events: none;
+    box-shadow: none;
+    background-color: transparent;
+    color:#9E9E9E;
+}
+
+.text:hover {
+    background-color: rgba(41, 98, 255, 0.1);
+}
+
+.disableShadow {
+    box-shadow: none;
+}
+
+.material-icons {
+    font-size: 14px;
+}
+
+.lg {
+    padding: 11px 22px;
+}
+
+.md {
+    padding: 8px 16px;
+}
+
+.sm {
+    padding: 6px 12px;
+}
+
+.secondary {
+    color: #fff;
+    background-color: #455A64;
+}
+
+.secondary:hover {
+    background-color: #1C313A;
+}
+
+.danger {
+    color: #fff;
+    background-color: #D32F2F;
+}
+
+.danger:hover {
+    background-color: #9A0007;
+}
