@@ -7,7 +7,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://buttoncomponent.onrender.com/">
+    <a target="_blank" href="https://buttoncomponent.onrender.com/">
       Demo
     </a>
     <span> | </span>
